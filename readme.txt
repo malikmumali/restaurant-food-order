@@ -1,0 +1,1 @@
+-the data base folder contains pictures of the tables and database i created for my back end
